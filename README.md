@@ -9,11 +9,13 @@ The 2020 preliminary data should be available soon as well, so you will want to 
 
 To start, this week you will need to:
 
-Create a new github repository
-Write a quick readme to explain what you are doing in your project (see above)
-Build a Jupyter Notebook script that:
-Loads the two files
-Joins the two files to one dataframe
-Calculates total sales by state using a groupby function
-Sales are currently in string values, requiring you to translate the value to a number so it can be calculated
+  Create a new github repository
+  Write a quick readme to explain what you are doing in your project (see above)
+  Build a Jupyter Notebook script that:
+    Loads the two files
+    Joins the two files to one dataframe
+    Calculates total sales by state using a groupby function
+    Sales are currently in string values, requiring you to translate the value to a number so it can be calculated
+
+
 Post the url to your new repository on github here once you have completed the assignment.
